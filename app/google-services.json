@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250633235660",
+    "firebase_url": "https://voizilla-f1089.firebaseio.com",
+    "project_id": "voizilla-f1089",
+    "storage_bucket": "voizilla-f1089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250633235660:android:f6d1728d18e2a9a4",
+        "android_client_info": {
+          "package_name": "bednarczuk.voizilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250633235660-j0kiggbgr5qjelf2k0dimmc13lq62a6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bednarczuk.voizilla",
+            "certificate_hash": "90d129d303972f80d330102334bb201a87c16efb"
+          }
+        },
+        {
+          "client_id": "250633235660-f6bofuo051jh4al7hnb1qgbcsrom8suo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9gEYnyQvBdw9MLH2m9CVh6n76tUB6y9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250633235660-f6bofuo051jh4al7hnb1qgbcsrom8suo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

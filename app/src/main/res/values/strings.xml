@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">voizilla</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="filters">filters</string>
+    <string name="car_name">name:</string>
+    <string name="car_status">status:</string>
+    <string name="car_range">range:</string>
+    <string name="car_side_number">side number:</string>
+    <string name="car_plate_number">plate number:</string>
+    <string name="car_colour">colour:</string>
+    <string name="car_picture">Car Picture</string>
+    <string name="crash_button">crash</string>
+</resources>
